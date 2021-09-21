@@ -29,8 +29,10 @@ img {
   max-width: 100%;
 }
 
+//Variables
+$primary: #3F51B5;
+$secondary: #E91E63;
+
 h1 {
-  a {
-    color: red;
-  }
+  color: $primary;
 }
